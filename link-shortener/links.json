@@ -17,7 +17,7 @@
         },
         "license-guide": {
                 "link": "https://pmcpoa-my.sharepoint.com/:w:/p/ep-rsn/IQAEBnaikjyrRIz_X_HJlfXpAavUmOW8BuVO5Jlm75WY9lQ?e=Cpr0gt",
-                "title": "How to Get Your GMRS License",
+                "title": "How to Get Your GMRS License"
         },
         "gmrs-channels": {
                 "link": "https://drive.google.com/file/d/1K6W93hZnSTM3lsjJ1i024jCbNR1rxvcK/view?usp=sharing",
@@ -26,6 +26,10 @@
         "short-uv-5g-manual-v1": {
                 "link": "https://drive.google.com/file/d/1IYnWgaAjJw6xSStF47GU8QijXQ_rSAv5/view?usp=sharing",
                 "title": "Abbreviated Manual for the Baofeng UV-5G"
+        },
+        "one-page-uv-5g": {
+                "link": "https://drive.google.com/file/d/13XTc5wd93ap5BYgAfier5d_Hinhu6JBS/view?usp=sharing",
+                "title": "One-Page Doc of UV-5G Operations"
         },
         "full-uv-5g-manual": {
                 "link": "https://drive.google.com/file/d/1Wi9tukU8WsqAAl8YitfSO8owS5TgZ-PT/view?usp=sharing",
